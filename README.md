@@ -1,6 +1,21 @@
-# CoolNews – Lekki i szybki moduł newsów dla PrestaShop 1.7, 8 i 9
+<div align="center">
 
-**CoolNews** to prosty, szybki i stabilny moduł newsów dla PrestaShop, zaprojektowany z myślą o sklepach, które chcą publikować aktualności, komunikaty, ogłoszenia i treści informacyjne bez instalowania ciężkich systemów blogowych.
+# 📰 CoolNews – Lekki i szybki moduł newsów dla PrestaShop 1.7, 8 i 9  
+Profesjonalny system aktualności, komunikatów i ogłoszeń dla sklepów internetowych
+
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+![Prestashop](https://img.shields.io/badge/Prestashop-1.7%20%7C%208%20%7C%209-blue)
+![License](https://img.shields.io/badge/license-commercial-red)
+![SEO](https://img.shields.io/badge/optimized%20for-SEO-orange)
+
+</div>
+
+---
+
+# 📌 O module CoolNews
+
+**CoolNews** to lekki, szybki i w pełni responsywny moduł newsów dla PrestaShop.  
+Zaprojektowany dla sklepów, które chcą publikować krótkie treści informacyjne, komunikaty, aktualności i ogłoszenia — bez instalowania ciężkich systemów blogowych.
 
 Moduł jest idealny dla sklepów, które potrzebują:
 - sekcji aktualności,
@@ -14,54 +29,52 @@ https://prestaexpert.pl/moduly-prestashop/21-cool-news-modul-bloga-i-newsow-z-se
 
 ---
 
-## ⭐ Dlaczego CoolNews?
+# ⭐ Dlaczego CoolNews?
 
-CoolNews został zaprojektowany jako **lekka alternatywa dla rozbudowanych blogów**, które często spowalniają sklep i generują problemy z kompatybilnością.
+CoolNews został stworzony jako **prosta i szybka alternatywa** dla rozbudowanych blogów, które spowalniają sklep i generują problemy z kompatybilnością.
 
-Najważniejsze cechy modułu:
+Najważniejsze zalety:
 
-- **prosty i szybki system newsów**,  
-- **łatwa obsługa**,  
-- **kompatybilność z PrestaShop 1.7, 8 i 9**,  
-- **przyjazne adresy URL**,  
-- **możliwość dodawania zdjęcia głównego**,  
-- **optymalizacja pod SEO**,  
-- **pełna responsywność**,  
-- **bezpieczna i stabilna architektura**,  
-- **brak nadmiarowych funkcji, które obciążają sklep**.
+- ⚡ **bardzo szybkie działanie**  
+- 🧩 **pełna kompatybilność z PrestaShop 1.7, 8 i 9**  
+- 🔍 **SEO-friendly** (meta title, meta description, friendly URLs)  
+- 🖼️ **obsługa zdjęcia głównego**  
+- 📱 **responsywny wygląd**  
+- 🎯 **minimalistyczna, stabilna architektura**  
+- 🔒 **bezpieczny i zgodny z przyszłymi aktualizacjami PrestaShop**  
 
 ---
 
-## 🚀 Funkcje modułu CoolNews
+# 🚀 Funkcje modułu CoolNews
 
-### 📰 Publikacja newsów
-- dodawanie tytułu,
-- dodawanie treści,
-- dodawanie zdjęcia głównego,
+## 📰 Publikacja newsów
+- tytuł,
+- treść,
+- zdjęcie główne,
 - data publikacji,
-- status: aktywny / nieaktywny.
+- status aktywny / nieaktywny.
 
-### 🔍 SEO
+## 🔍 SEO
 - przyjazne adresy URL,
 - meta title,
 - meta description,
-- automatyczne generowanie linków,
-- poprawna struktura HTML dla wyszukiwarek.
+- poprawna struktura HTML,
+- automatyczne generowanie linków.
 
-### 🎨 Wyświetlanie newsów
+## 🎨 Wyświetlanie newsów
 - lista newsów,
 - podstrona pojedynczego newsa,
-- responsywny wygląd,
+- responsywny layout,
 - integracja z motywem PrestaShop.
 
-### ⚙️ Panel administracyjny
+## ⚙️ Panel administracyjny
 - prosty edytor treści,
 - zarządzanie listą newsów,
 - szybka edycja i publikacja.
 
 ---
 
-## 📚 Dokumentacja
+# 📚 Dokumentacja
 
 Pełna dokumentacja znajduje się w katalogu `/docs`:
 
@@ -76,34 +89,49 @@ Pełna dokumentacja znajduje się w katalogu `/docs`:
 
 ---
 
-## 🛒 Zakup modułu
+# 🛒 Zakup modułu
 
 ➡️ **Kup CoolNews w sklepie PrestaExpert:**  
 https://prestaexpert.pl/moduly-prestashop/21-cool-news-modul-bloga-i-newsow-z-seo-dla-prestashop-17-9.html
 
 ---
 
-## 🛠 Wsparcie techniczne
+# 🛠 Wsparcie techniczne
 
 **PrestaExpert – Sławomir Własik**  
 https://prestaexpert.pl/kontakt
 
 ---
 
-## 📄 Licencja
+# 📄 Licencja
 
 Moduł CoolNews jest produktem komercyjnym.  
 Kod źródłowy nie jest udostępniany publicznie.  
 Wszelkie prawa zastrzeżone © PrestaExpert.
 
 
+++++++++++++++++++++++++++++++++++++++++++++++++=++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-# CoolNews – Lightweight News Module for PrestaShop 1.7, 8 and 9
+<div align="center">
 
-**CoolNews** is a simple, fast and stable news module for PrestaShop.  
-It allows store owners to publish announcements, updates, short articles and informational messages without installing heavy or complex blog systems.
+# 📰 CoolNews – Lightweight News Module for PrestaShop 1.7, 8 and 9  
+Professional announcement & updates system for online stores
 
-The module is perfect for stores that need:
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+![Prestashop](https://img.shields.io/badge/Prestashop-1.7%20%7C%208%20%7C%209-blue)
+![License](https://img.shields.io/badge/license-commercial-red)
+![SEO](https://img.shields.io/badge/optimized%20for-SEO-orange)
+
+</div>
+
+---
+
+# 📌 About CoolNews
+
+**CoolNews** is a lightweight, fast and fully responsive news module for PrestaShop.  
+It allows store owners to publish announcements, updates, short articles and informational messages — without installing heavy or complex blog systems.
+
+Perfect for stores that need:
 - a news section,
 - customer announcements,
 - promotional updates,
@@ -115,54 +143,52 @@ https://addons.prestashop.com/pl/blog-forum-aktualnosci/96670-cool-news-profesjo
 
 ---
 
-## ⭐ Why CoolNews?
+# ⭐ Why CoolNews?
 
-CoolNews was designed as a **lightweight alternative to full blog systems**, which often slow down the shop and cause compatibility issues.
+CoolNews was designed as a **simple and fast alternative** to full blog systems that slow down the shop and cause compatibility issues.
 
 Key advantages:
 
-- **simple and fast news system**,  
-- **easy to use**,  
-- **compatible with PrestaShop 1.7, 8 and 9**,  
-- **SEO‑friendly URLs**,  
-- **main image support**,  
-- **SEO‑optimized structure**,  
-- **fully responsive**,  
-- **clean and stable architecture**,  
-- **no unnecessary features that slow down the shop**.
+- ⚡ **very fast performance**  
+- 🧩 **compatible with PrestaShop 1.7, 8 and 9**  
+- 🔍 **SEO‑friendly** (meta title, meta description, friendly URLs)  
+- 🖼️ **main image support**  
+- 📱 **responsive layout**  
+- 🎯 **minimalistic, stable architecture**  
+- 🔒 **safe and future‑proof**  
 
 ---
 
-## 🚀 CoolNews Features
+# 🚀 CoolNews Features
 
-### 📰 News publishing
+## 📰 News publishing
 - title,
 - content,
 - main image,
 - publication date,
 - active / inactive status.
 
-### 🔍 SEO
+## 🔍 SEO
 - friendly URLs,
 - meta title,
 - meta description,
-- automatic link generation,
-- clean HTML structure for search engines.
+- clean HTML structure,
+- automatic link generation.
 
-### 🎨 Front‑office display
+## 🎨 Front‑office display
 - news list,
 - single news page,
 - responsive layout,
 - theme‑friendly integration.
 
-### ⚙️ Back‑office management
+## ⚙️ Back‑office management
 - simple content editor,
 - news list management,
 - quick editing and publishing.
 
 ---
 
-## 📚 Documentation
+# 📚 Documentation
 
 Full documentation is available in the `/docs` directory:
 
@@ -177,22 +203,23 @@ Full documentation is available in the `/docs` directory:
 
 ---
 
-## 🛒 Purchase
+# 🛒 Purchase
 
 ➡️ **Buy CoolNews on PrestaShop Addons:**  
 https://addons.prestashop.com/pl/blog-forum-aktualnosci/96670-cool-news-profesjonalny-system-newsow-dla-prestashop.html
 
 ---
 
-## 🛠 Technical Support
+# 🛠 Technical Support
 
 **PrestaExpert – Sławomir Własik**  
 https://prestaexpert.pl/kontakt
 
 ---
 
-## 📄 License
+# 📄 License
 
 CoolNews is a commercial product.  
 The source code is not publicly available.  
 All rights reserved © PrestaExpert.
+
